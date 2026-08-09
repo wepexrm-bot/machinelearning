@@ -1,0 +1,37 @@
+# Python virtual environments
+venv/
+env/
+data_env/
+machinelearning_env/
+.venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+
+#Data files
+*.csv
+*.pkl
+*.hs
+*.parquet
+*.npy
+
+ #IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
